@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<titlecn j nk  xn jddtitle>
 </head>
 <body style="text-align: center;">
 <h1 style="font-family: cursive;">Подробная информация</h1>
